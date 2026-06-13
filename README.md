@@ -1,2 +1,3 @@
 # Multi-Disease-Risk-Prediction
 A web-based healthcare prediction system that leverages Machine Learning and Deep Learning models to assess the risk of Cardiovascular, Kidney, and Liver diseases from medical data and diagnostic images.
+Multi-Disease Risk Prediction System is a healthcare analytics application that uses Machine Learning and Deep Learning techniques to predict the risk of Cardiovascular, Kidney, and Liver diseases. The system provides a user-friendly web interface for data input, medical image analysis, and real-time risk assessment, helping support early diagnosis and healthcare decision-making.
